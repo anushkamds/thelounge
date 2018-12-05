@@ -1,2 +1,2 @@
 [build]
-  command = "yarn install && NODE_ENV=production yarn build && yarn start"
+  command = "npm -g install thelounge && lounge start --port 80 --private"

@@ -1,2 +1,2 @@
 [build]
-  command = "npm -g install thelounge && thelounge start --port=80"
+  command = "npm -g install thelounge && thelounge start"

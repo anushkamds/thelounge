@@ -1,2 +1,2 @@
 [build]
-  command = "npm -g install thelounge && thelounge start"
+  command = "npm -g install thelounge && thelounge start && thelounge add anushka"
